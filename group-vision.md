@@ -10,7 +10,7 @@ This document explains what these two points mean.  There is also an [Appendix o
 # Act kindly and professionally
 We value the participation of every member and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the group are expected to show respect and courtesy to others at all times. We create our culture and our culture is inclusive.
 
-Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form.
+Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group members are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form.
 
 
 ## Contribute to discussions in meetings with a constructive, positive approach
@@ -46,7 +46,7 @@ The goal of this research group is to be an inclusive and safe place in which to
 - We pay or award credit to group members equitably within each career stage.
 - We actively support the efforts of underrepresented scholars outside of the group by seeking a diverse and balanced pool of seminar speakers, conference presenters and co-conveners, research collaborators, and award nominees. Our goal is to have speakers nominated for seminars be representative of the US population. 
 - We use gender- and race-neutral language in recommendation letters and trainee evaluations ([link](https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf)).
-- Recognizing that areas of potential research interest in the Arctic and high North (and where we live in Atlanta) are colonized Indigenous land, and using original Indigenous place names (e.g. for Greenlandic glaciers: http://dx.doi.org/10.6084/m9.figshare.1449148) and land acknowledgements in published or presented work.
+- Recognizing that areas of potential research interest in the Arctic and high North (and where we live in Seattle) are colonized Indigenous land, and using original Indigenous place names (e.g. for Greenlandic glaciers: http://dx.doi.org/10.6084/m9.figshare.1449148) and land acknowledgements in published or presented work.
 - We hold those in power (including the PI and those in our own institution) and each other accountable by calling out racist, sexist, or otherwise hurtful language and actions. We support each other in this accountability. Conflicts within our own group should be adjudicated in private and with the PI's assistance (or if preferred, through the [University Ombud](https://www.washington.edu/ombud/)).
 - We incorporate discussions of anti-racism and anti-discrimination efforts in the geosciences into our group discussion at least once a semester. 
 - We discuss further ways in which we can add to the above actions in our group efforts.
@@ -167,7 +167,7 @@ There are a number of excellent resources available regarding applying to gradua
 We will actively take steps to fight bias during the recruitment process:
 
 - Actively recruiting group members (at all career stages) from historically underrepresented groups, and fostering a supportive community so that our group is a desirable and welcoming environment (see rest of guidelines). Our goal is for the group (including undergraduate and graduate students) to be representative of the US population averaged over time scales of 5-10 years (to mitigate small number biases), and to review our efforts and shortcomings in this regard each year in the fall prior to the PhD application cycle.
-- To facilitate recruitment, we maintain active efforts to work with the many world-class minority-serving institutions in the Atlanta region, and the Southeast more broadly. We begin these recruitment efforts through an annual commitment to recruit and mentor at least one BIPOC student through the EAS REU program, and when possible, through interested GT undergraduate students.
+- To facilitate recruitment, we maintain active efforts to work with the many world-class minority-serving institutions in the Seattle region, and the Southeast more broadly. We begin these recruitment efforts through an annual commitment to recruit and mentor at least one BIPOC student through the EAS REU program, and when possible, through interested GT undergraduate students.
 - Pursue strategies to combat the doubly-unrepresentative nature of mathematical, computational and dynamical glaciology, including maintaining a diverse range of entry points for potential projects and providing mentoring (ourselves or through institute resources) to group members in approaches and techniques that we consider integral to our research.
 
 
