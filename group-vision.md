@@ -170,6 +170,14 @@ We will actively take steps to fight bias during the recruitment process:
 - To facilitate recruitment, we maintain active efforts to work with the many world-class minority-serving institutions in the Seattle region, and the Southeast more broadly. We begin these recruitment efforts through an annual commitment to recruit and mentor at least one BIPOC student through the EAS REU program, and when possible, through interested GT undergraduate students.
 - Pursue strategies to combat the doubly-unrepresentative nature of mathematical, computational and dynamical glaciology, including maintaining a diverse range of entry points for potential projects and providing mentoring (ourselves or through institute resources) to group members in approaches and techniques that we consider integral to our research.
 
+## Questions that you might be asked when and if you apply to work in our group
+Why do you want to go to grad school?
+Why are you interested in the geophysics and compuation group?
+What is your technical training? Do you enjoy coding? Do you enjoy doing math?
+What is your communication training? Do you enjoy writing? What's the hardest part about writing?
+What do you expect from an advisor?
+What role do you expect your advisor to play in your career trajectory?
+What are you primary and backup career goals?
 
 # Acknowledgements
 This document was copied from a Google Document linked from Alex Robel's webiste [link](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit).  This document originally provided the following copyright notice which has not been modified.  The CC-BY 4.0 license requires that changes to the original document (in this case, Alex's) be noted.  The interested reader will find these changes documented through the git repository's version control system.
