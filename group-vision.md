@@ -158,26 +158,26 @@ Conferences and workshops are by far the best way to meet other researchers. Thi
 
 # Appendix on Group Admissions
 
-There are a number of excellent resources available regarding applying to graduate school in the Earth Sciences.  
+First of all, there are a number of excellent resources available regarding applying to graduate school in the Earth Sciences.  
 
--[The Graduate School Application Station](https://geogradapp.com/)
--[Tips and Tricks for Applying to Graduate School in the Geosciences](https://www.iris.edu/hq/webinar/2016/10/tips_tricks_for_applying_to_graduate_school_in_the_geosciences), Jackie Caplan-Auerbach, Western Washington University 
--[Unwritten rules about applying to graduate school](http://www.hurteaulab.org/blog/unwritten-rules-about-applying-to-graduate-school), Matthew D. Hurteau, University of New Mexico
+- [The Graduate School Application Station](https://geogradapp.com/)
+- [Tips and Tricks for Applying to Graduate School in the Geosciences](https://www.iris.edu/hq/webinar/2016/10/tips_tricks_for_applying_to_graduate_school_in_the_geosciences), Jackie Caplan-Auerbach, Western Washington University 
+- [Unwritten rules about applying to graduate school](http://www.hurteaulab.org/blog/unwritten-rules-about-applying-to-graduate-school), Matthew D. Hurteau, University of New Mexico
 
-We will actively take steps to fight bias during the recruitment process:
+### We will actively take steps to fight bias during the recruitment process:
 
 - Actively recruiting group members (at all career stages) from historically underrepresented groups, and fostering a supportive community so that our group is a desirable and welcoming environment (see rest of guidelines). Our goal is for the group (including undergraduate and graduate students) to be representative of the US population averaged over time scales of 5-10 years (to mitigate small number biases), and to review our efforts and shortcomings in this regard each year in the fall prior to the PhD application cycle.
 - To facilitate recruitment, we maintain active efforts to work with the many world-class minority-serving institutions in the Seattle region, and the Southeast more broadly. We begin these recruitment efforts through an annual commitment to recruit and mentor at least one BIPOC student through the EAS REU program, and when possible, through interested GT undergraduate students.
 - Pursue strategies to combat the doubly-unrepresentative nature of mathematical, computational and dynamical glaciology, including maintaining a diverse range of entry points for potential projects and providing mentoring (ourselves or through institute resources) to group members in approaches and techniques that we consider integral to our research.
 
-## Questions that you might be asked when and if you apply to work in our group
-Why do you want to go to grad school?
-Why are you interested in the geophysics and compuation group?
-What is your technical training? Do you enjoy coding? Do you enjoy doing math?
-What is your communication training? Do you enjoy writing? What's the hardest part about writing?
-What do you expect from an advisor?
-What role do you expect your advisor to play in your career trajectory?
-What are you primary and backup career goals?
+### Questions that you might be asked when and if you apply to work in our group
+- Why do you want to go to grad school?
+- Why are you interested in the geophysics and compuation group?
+- What is your technical training? Do you enjoy coding? Do you enjoy doing math?
+- What is your communication training? Do you enjoy writing? What's the hardest part about writing?
+- What do you expect from an advisor?
+- What role do you expect your advisor to play in your career trajectory?
+- What are you primary and backup career goals?
 
 # Acknowledgements
 This document was copied from a Google Document linked from Alex Robel's webiste [link](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit).  This document originally provided the following copyright notice which has not been modified.  The CC-BY 4.0 license requires that changes to the original document (in this case, Alex's) be noted.  The interested reader will find these changes documented through the git repository's version control system.
