@@ -178,6 +178,7 @@ First of all, there are a number of excellent resources available regarding appl
 - What do you expect from an advisor?
 - What role do you expect your advisor to play in your career trajectory?
 - What are you primary and backup career goals?
+- Do you have any questions for me?
 
 # Acknowledgements
 This document was copied from a Google Document linked from Alex Robel's webiste [link](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit).  This document originally provided the following copyright notice which has not been modified.  The CC-BY 4.0 license requires that changes to the original document (in this case, Alex's) be noted.  The interested reader will find these changes documented through the git repository's version control system.
